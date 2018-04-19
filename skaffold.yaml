@@ -15,5 +15,3 @@ profiles:
     build:
       local:
         skipPush: false
-      tagPolicy:
-        gitCommit: {}
